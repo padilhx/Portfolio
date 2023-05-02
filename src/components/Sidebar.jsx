@@ -1,3 +1,4 @@
+import React from "react"
 import SocialNetworks from "./SocialNetworks"
 import Avatar from "../img/3.png"
 

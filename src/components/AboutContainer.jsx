@@ -1,3 +1,5 @@
+import React from "react";
+
 
 const AboutContainer = () => {
   return <section className="about-container">

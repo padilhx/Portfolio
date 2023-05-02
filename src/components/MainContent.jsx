@@ -1,3 +1,4 @@
+import React from 'react';
 import AboutContainer from './AboutContainer';
 import TechnologiesContainer from './TechnologiesContainer';
 import ProjectsContainer from './ProjectsContainer';
