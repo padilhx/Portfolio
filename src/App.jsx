@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div id="portfolio"> 
-    <h1>Guilherme Padilha jobins</h1>
+    <h1>Guilherme Padilha Jobins</h1>
     <Sidebar />
     <MainContent />
     </div>
