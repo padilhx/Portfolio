@@ -10,7 +10,7 @@ const ProjectsContainer = () => {
     </p>
     <p>
 
-      Focado no Front-end, grande parte dos projetos que criei e participei, se encontram no meu repositorio, onde vai dos primeiros passos até os dias de hoje, onde mostro minha evolução e aprendizado.
+      Focado no Fullstack, grande parte dos projetos que criei e participei, se encontram no meu repositorio, onde vai dos primeiros passos até os dias de hoje, onde mostro minha evolução e aprendizado.
       
     </p>
     <br />
