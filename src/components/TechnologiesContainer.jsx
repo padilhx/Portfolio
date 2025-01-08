@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  DiHtml5,
+  RiNextjsFill,
   DiPhp,
   DiJsBadge,
   DiNodejsSmall,
@@ -13,7 +13,7 @@ import {SiTypescript} from 'react-icons/si'
 import '../styles/components/technologiescontainer.sass'
 
 const technologies = [
-  { id: "html", name: "HTML5", icon: <DiHtml5/> },
+  { id: "next", name: "NEXT", icon: <RiNextjsFill/> },
   { id: "php", name: "PHP", icon: <DiPhp /> },
   { id: "js", name: "JavaScript", icon: <DiJsBadge /> },
   { id: "node", name: "Node.js", icon: <DiNodejsSmall /> },
