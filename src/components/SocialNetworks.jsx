@@ -4,7 +4,7 @@ import '../styles/components/socialnetworks.sass'
 
 
 const socialNetworks = [
-  { name: "linkedin", icon: <FaLinkedinIn />, href:'https://www.linkedin.com/in/guilherme-padilha-44731a182/' },
+  { name: "linkedin", icon: <FaLinkedinIn />, href:'https://www.linkedin.com/in/guilherme-padilha-jobins-29b698262/' },
   { name: "github", icon: <FaGithub />, href:'https://github.com/padilhx'},
   { name: "instagram", icon: <FaInstagram />, href:'https://www.instagram.com/padilhx/' },
 ]
